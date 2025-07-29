@@ -4,6 +4,8 @@ go install github.com/Deep-Commit/gswarm/cmd/gswarm@latest
 ```
 ```bash
 gswarm --version
+``
+```bash
 ```wget https://go.dev/dl/go1.24.0.linux-amd64.tar.gz
 sudo rm -rf /usr/local/go
 sudo tar -C /usr/local -xzf go1.24.0.linux-amd64.tar.gz
