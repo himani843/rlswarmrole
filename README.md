@@ -2,6 +2,7 @@
 ```bash
 go install github.com/Deep-Commit/gswarm/cmd/gswarm@latest
 ```
+go install take 2-5min. for download & download depends on your internet speed aslo 
 ```bash
 gswarm --version
 ```
